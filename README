@@ -1,0 +1,2 @@
+Use scrapy to crawl country codes from https://countrycode.org/.
+Save in Redis
